@@ -14,8 +14,8 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.31.0
 six==1.16.0
-torch==1.13.1+cpu
-torchvision==0.14.1+cpu
+torch==1.13.1
+torchvision==0.14.1
 typing_extensions==4.10.0
 tzdata==2024.1
 urllib3==2.2.1
